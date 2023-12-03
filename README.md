@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @syedashar69
 - 👀 I’m interested in learning as much i can
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning to become Front End Dev
+  
 
 
 <!---
